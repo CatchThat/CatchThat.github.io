@@ -9,3 +9,7 @@ Hier gibt's noch eine sinnlose Liste:
 * erster Listenpunkt
 * zweiter Listenpunkt
 * noch einer
+
+Und jetzt das Zitat:
+> Das Sinnlose wird immer sinnlos bleiben,
+> auch in einer Zeit der Sinnlosigkeit.
