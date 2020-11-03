@@ -13,3 +13,6 @@ Hier gibt's noch eine sinnlose Liste:
 Und jetzt das Zitat:
 > Das Sinnlose wird immer sinnlos bleiben,
 > auch in einer Zeit der Sinnlosigkeit.
+
+Hier noch potentiell das Bild:
+<img src="xxx.jpg"/>
